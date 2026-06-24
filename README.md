@@ -2,7 +2,7 @@
 
 Ejercicios de JavaScript. Todo el código está en `front/dist/js/script.js` y se ejecuta junto al abrir `front/index.html`. Cada ejercicio está separado con un `console.log` y comentarios.
 
-## Ejercicio 1 - El Rastro del Código (Teórico)
+## Ejercicio 1 - El Rastro del Código
 
 La consigna pedía elegir un valor mayor a 30 y otro menor a 15. Elegí el array `[12, 35]`.
 
@@ -25,4 +25,5 @@ Array `servidores`, función flecha `verificarEstado` con un switch para los usu
 ## Ejercicio 4 - Boss Fight
 
 Variable global `hp = 1000`. Cada click en el botón "Atacar" resta 50 y actualiza el `<h2>` con innerText. Al llegar a 0 muestra "¡Jefe Derrotado!". 
+
 WIP: Deshabilitar el botón. Al seguir clickeando no pasa nada pero lo pide la letra de la tarea.
